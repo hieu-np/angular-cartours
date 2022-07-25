@@ -9,3 +9,16 @@
 .top44{
   margin-top: 55px;
 }
+
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  bottom: -1rem;
+  left: 15%;
+  padding-top: 1.25rem;
+  padding-bottom: 0rem;
+  color: var(--text-dark);
+  text-align: center;
+  font-weight: bold;
+  text-shadow: -1px -1px 0 rgb(255, 255, 255), 1px -1px 0 rgb(255, 255, 255), -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255);
+}
